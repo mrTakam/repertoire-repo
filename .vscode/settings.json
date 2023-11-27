@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "repertoire.h": "c",
+        "constantes.h": "c"
+    }
+}
